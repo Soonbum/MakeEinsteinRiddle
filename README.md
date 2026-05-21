@@ -2,6 +2,8 @@
 
 아인슈타인 가옥 퀴즈 (Einstein's Riddle) 생성 프로그램입니다. C++/Dear ImGui 프레임워크를 활용했습니다.
 
+<img width="1282" height="752" alt="image" src="https://github.com/user-attachments/assets/4acb7776-7c2c-4065-90cb-6b3806b88e3f" />
+
 # 환경 설정 방법
 
 ## 단계별로 설명해 드립니다.
