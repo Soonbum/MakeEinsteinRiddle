@@ -1,6 +1,8 @@
 # MakeEinsteinRiddle
 
-아인슈타인 가옥 퀴즈 (Einstein's Riddle) 생성 프로그램입니다. C++/Dear ImGui 프레임워크를 활용했습니다.
+* 아인슈타인 가옥 퀴즈 (Einstein's Riddle) 생성 프로그램입니다. C++/Dear ImGui 프레임워크를 활용했습니다.
+
+  - Dear ImGui 데모 사이트: https://pthom.github.io/imgui_explorer/
 
 <img width="1282" height="752" alt="image" src="https://github.com/user-attachments/assets/4acb7776-7c2c-4065-90cb-6b3806b88e3f" />
 
